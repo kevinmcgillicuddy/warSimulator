@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\War\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|c:\\users\\kevin\\source\\repos\\war\\war\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|solutionrelative:war\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|c:\\users\\kevin\\source\\repos\\war\\war\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|solutionrelative:war\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|c:\\users\\kevin\\source\\repos\\war\\war\\models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|solutionrelative:war\\models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|c:\\users\\kevin\\source\\repos\\war\\war\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B31FE8-BD8B-4CFC-A7E1-9A307F08101A}|War\\War.csproj|solutionrelative:war\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\War\\War\\Models\\Deck.cs",
+              "RelativeDocumentMoniker": "War\\Models\\Deck.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\War\\War\\Models\\Deck.cs",
+              "RelativeToolTip": "War\\Models\\Deck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:00:18.707Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\War\\War\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "War\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\War\\War\\Models\\Player.cs",
+              "RelativeToolTip": "War\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:43:02.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\War\\War\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "War\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\War\\War\\Models\\Card.cs",
+              "RelativeToolTip": "War\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:06:20.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\War\\War\\Program.cs",
+              "RelativeDocumentMoniker": "War\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\War\\War\\Program.cs",
+              "RelativeToolTip": "War\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:28:14.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
